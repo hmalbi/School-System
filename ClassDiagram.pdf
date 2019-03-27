@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Admin">
+    <Position X="4" Y="13" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIBAAAAAQACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Admin.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Answer">
+    <Position X="12.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAACAAAAAAABAAAAAAAAAAAAAAAAAAgAAAAI=</HashCode>
+      <FileName>Answer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assignment">
+    <Position X="1.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAQAQAAAAQAAAAAAAAABEABAAI=</HashCode>
+      <FileName>Assignment.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Date">
+    <Position X="1.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAkAAAAAAAAAARAEAAAAAQCAEwAAAABDABAAAAAAAA=</HashCode>
+      <FileName>Date.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Employee">
+    <Position X="4" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAgAAAAAAACIBAACAAAAAAQAgAAAAAAAAA=</HashCode>
+      <FileName>Employee.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="File&lt;t&gt;">
+    <Position X="12.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAABAAAAAAAAAAAQAAQAAAAAECAAAAAAAAAAGQAA=</HashCode>
+      <FileName>File.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Grade">
+    <Position X="8.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gACAAABAAAIAAFAIBQAAAQAEAAgAgAIABAAgBEEAAAE=</HashCode>
+      <FileName>Grade.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Person">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>oIAQAAAACKAIhAgAAAgAAgAAECQBAgAoIAAAwhEAEgM=</HashCode>
+      <FileName>Person.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Post">
+    <Position X="6.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAACACAQAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Post.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Question">
+    <Position X="10.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAACAgAAAAAAAAARAAAAEAAgAAAIAAAI=</HashCode>
+      <FileName>Question.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Resours">
+    <Position X="14.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAQAIAAABAAAQAAAAEAAQAACAAQAAABAA=</HashCode>
+      <FileName>Resours.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="School">
+    <Position X="10.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAABEAAAAAAABAAAAUAAAAAQAAAAAEBgAI=</HashCode>
+      <FileName>School.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Student">
+    <Position X="6.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIQAAAAAAABAAAAAAIAAAAAAAAAAAIAAAAEgA=</HashCode>
+      <FileName>Student.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Teacher">
+    <Position X="6.75" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAACAAAAAAgAAAAAAAAACIAAAAAACAAAAAAAAAEAA=</HashCode>
+      <FileName>Teacher.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Text_File">
+    <Position X="6.5" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>Text_File.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Cours">
+    <Position X="10.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAggAAAAAAAAAAAAABBAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Cours_Enum.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
